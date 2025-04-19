@@ -1,4 +1,4 @@
-# CSharpAcademy
+# Learning C# and Angular
 Follow me as I learn C# and Angular through theCSharpAcademy.com
 
 # 🧠 C# + ASP.NET + Angular Study Plan for Internship
