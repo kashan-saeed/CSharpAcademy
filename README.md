@@ -10,8 +10,8 @@ This is a 7-week study plan tailored to 6 hours/week, designed to prepare for a 
 ## 📅 Weekly Schedule
 
 ### Week 1: 🧱 C# Foundations and 
-- [ ] **2h** – THE C# ACADEMY: First Steps
-- [ ] **8h** – FreeCodeCamp: C# Basics (Variables, Data Types, Methods)
+- [x] **2h** – THE C# ACADEMY: First Steps
+- [x] **8h** – FreeCodeCamp: C# Basics (Variables, Data Types, Methods)
 
 ---
 
